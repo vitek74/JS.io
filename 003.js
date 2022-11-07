@@ -1,7 +1,8 @@
-let a = 7
+//Умножение двух чисел
+let a = 7;
 
-let b = 9
+let b = 9;
 
-let c = a + b
+let c = a + b;
 
-console.log(c)
+console.log(c);

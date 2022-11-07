@@ -1,31 +1,31 @@
+//Типы данных
 //вместо let использовать const
+let myString = 'string';
 
-let myString = 'string'
+let myNumber = 456;
 
-let myNumber = 456
+let myBoolean = true;
 
-let myBoolean = true
+let myNull = null;
 
-let myNull = null
+let  myUndefined;
 
-let  myUndefined
+let myObject = {};
 
-let myObject = {}
+let myArray = [];
 
-let myArray = []
+console.log(myArray);
 
-console.log(myArray)
+console.log(myBoolean);
 
-console.log(myBoolean)
+console.log(myNull);
 
-console.log(myNull)
+console.log(myNumber);
 
-console.log(myNumber)
+console.log(myObject);
 
-console.log(myObject)
+console.log(myUndefined);
 
-console.log(myUndefined)
-
-console.log(myString)
+console.log(myString);
 
 

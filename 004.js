@@ -1,11 +1,12 @@
-const myName = 'viktor'
+//Объединение строк
+const myName = 'viktor';
 
-const myFamily = 'schadrin'
+const myFamily = 'schadrin';
 
-const myArbait = 'security'
+const myArbait = 'security';
 
-const myContry = 'Меня зовут ' + myName  + ' ' + myFamily + ' ' + myArbait
-console.log(myName)
+const myContry = 'Меня зовут ' + myName  + ' ' + myFamily + ' ' + myArbait;
+console.log(myName);
 
-console.log(myContry)
+console.log(myContry);
 

@@ -1,2 +1,3 @@
-const myContry = 'Russia'
-console.log(myContry)
+//Объявление переменной
+const myContry = 'Russia';
+console.log(myContry);
